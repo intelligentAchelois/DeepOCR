@@ -1,0 +1,7 @@
+name: deepocr-env
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python==3.8.17
+  - pip==23.2.1
